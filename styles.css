@@ -19,6 +19,8 @@ h2{
 
 li{
   margin-bottom:15px;
+  font-size:17px;
+  list-style-type: none;
 }
 
 table{
@@ -42,7 +44,6 @@ table{
 .fun-fact{
   text-align:center;
   font-family: 'Roboto', sans-serif;
-  font-size:17px;
 }
 
 .top-page{
@@ -70,12 +71,10 @@ table{
   position:relative;
 }
 
-.skills-contacts{
-  padding:10px;
-  float:left;
-  width:40%;
-  position:relative;
-  left:160px;
+.accomplishments-contacts{
+  float:right;
+  left:20px;
+  width:50%;
 }
 
 .stars{
@@ -83,6 +82,9 @@ table{
 }
 
 .summary{
-  float:left;
-  width:50%;
+  width:100%;
+}
+
+.bold{
+  font-size:18px;
 }
